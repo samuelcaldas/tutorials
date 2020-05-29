@@ -1,23 +1,24 @@
 <p align="center">
     <a href="https://morvanzhou.github.io/tutorials/" target="_blank">
-    <img width="60%" src="https://github.com/MorvanZhou/tutorials/blob/master/%E7%89%87%E5%A4%B4.png" style="max-width:100%;">
+    <img width="60%" src="https://github.com/samuel/tutorials/blob/master/%E7%89%87%E5%A4%B4.png" style="max-width:100%;">
     </a>
 </p>
 
 
 <br>
 
-我是 周沫凡, [莫烦Python](https://morvanzhou.github.io/) 只是谐音, 我喜欢制作,
-分享所学的东西, 所以你能在这里找到很多有用的东西, 少走弯路. 你能在[这里](https://morvanzhou.github.io/about/)找到关于我的所有东西.
+Sou Zhou Mofan e não sou [irritante que Python](https://morvanzhou.github.io/) seja apenas um homônimo. 
+Gosto de criar e compartilhar o que aprendi, para que você possa encontrar muitas coisas úteis aqui e evitar desvios.
+Você pode encontrar tudo sobre mim [aqui](https://morvanzhou.github.io/about/).
 
-## 这个 Python tutorial 的一些内容:
+## Algum conteúdo deste tutorial em Python:
 
-* [Python 基础](https://morvanzhou.github.io/tutorials/python-basic/)
-  * [基础](https://morvanzhou.github.io/tutorials/python-basic/basic/)
+* [Noções básicas de Python](https://morvanzhou.github.io/tutorials/python-basic/)
+  * [base](https://morvanzhou.github.io/tutorials/python-basic/basic/)
   * [多线程 threading](https://morvanzhou.github.io/tutorials/python-basic/threading/)
   * [多进程 multiprocessing](https://morvanzhou.github.io/tutorials/python-basic/multiprocessing/)
   * [简单窗口 tkinter](https://morvanzhou.github.io/tutorials/python-basic/tkinter/)
-* [机器学习](https://morvanzhou.github.io/tutorials/machine-learning/)
+* [Aprendizado de máquina](https://morvanzhou.github.io/tutorials/machine-learning/)
   * [有趣的机器学习](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/)
   * [强化学习 (Reinforcement Learning)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
   * [进化算法 (Evolutionary Algorithm) 如遗传算法等](https://morvanzhou.github.io/tutorials/machine-learning/evolutionary-algorithm/)
@@ -27,15 +28,15 @@
   * [Keras (快速神经网络)](https://morvanzhou.github.io/tutorials/machine-learning/keras/)
   * [Scikit-Learn (机器学习)](https://morvanzhou.github.io/tutorials/machine-learning/sklearn/)
   * [机器学习实战](https://morvanzhou.github.io/tutorials/machine-learning/ML-practice/)
-* [数据处理](https://morvanzhou.github.io/tutorials/data-manipulation/)
+* [processamento de dados](https://morvanzhou.github.io/tutorials/data-manipulation/)
   * [Numpy & Pandas (处理数据)](https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/)
   * [Matplotlib (绘图)](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
   * [爬虫](https://morvanzhou.github.io/tutorials/data-manipulation/scraping/)
-* [其他](https://morvanzhou.github.io/tutorials/others/)
+* [Outros](https://morvanzhou.github.io/tutorials/others/)
   * [Git (版本管理)](https://morvanzhou.github.io/tutorials/others/git/)
   * [Linux 简易教学](https://morvanzhou.github.io/tutorials/others/linux-basic/)
 
-## 赞助和支持
+## Patrocínio e apoio
 
-这些 tutorial 都是我用业余时间写出来, 录成视频, 如果你觉得它对你很有帮助, 请你也分享给需要学习的朋友们.
-如果你看好我的经验分享, 也请考虑适当的 [赞助打赏](https://morvanzhou.github.io/support/), 让我能继续分享更好的内容给大家.
+Este é o meu tutorial, escrito em seu tempo livre para gravar o vídeo. Se você acha que isso ajuda, também precisa aprender a compartilhar com os amigos.
+Se estiver otimista quanto à minha experiência em compartilhar, considere também o [patrocínio apropriado](https://morvanzhou.github.io/support/), para que eu possa continuar compartilhando melhor conteúdo para todos.
