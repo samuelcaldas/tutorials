@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://morvanzhou.github.io/tutorials/" target="_blank">
-    <img width="60%" src="https://github.com/samuel/tutorials/blob/master/cover.png" style="max-width:100%;">
+    <img width="60%" src="https://github.com/samuelcaldas/tutorials/raw/master/cover.png" style="max-width:100%;">
     </a>
 </p>
 
